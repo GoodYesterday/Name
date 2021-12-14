@@ -1,0 +1,15 @@
+---
+name: Name
+author: GYo.O
+version: G111
+main: GY\PM4\Name
+api: 4.0.0
+
+commands:
+  이름:
+    description: 아이템 이름을 변경합니다.
+    permission: n.cmd
+permissions:
+  n.cmd:
+    default: op
+...
